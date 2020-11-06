@@ -24,7 +24,7 @@ we have collected the data for all the solar power plants (in India) listed by t
 ## Method of Data Collection
 ● The list of all the solar power plants in India has been obtained by scraping the
 annual renewable energy plant report which is made available by the
-government.
+government.<br/>
 ● The average domestic electricity rates of the states for the year 2020 are
 collected from the “Bijli Bachao” website.
 ● Per capita, electricity consumption for the year 2018-19 in KWh is collected from
