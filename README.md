@@ -26,9 +26,9 @@ we have collected the data for all the solar power plants (in India) listed by t
 annual renewable energy plant report which is made available by the
 government.<br/>
 ● The average domestic electricity rates of the states for the year 2020 are
-collected from the “Bijli Bachao” website.
+collected from the “Bijli Bachao” website.<br/>
 ● Per capita, electricity consumption for the year 2018-19 in KWh is collected from
-the press information bureau.
+the press information bureau.<br/>
 ● The latitude and longitude of the district in which the solar plant is located are
 collected using Geocoder and using these coordinates the average monthly
 Solar Radiation is obtained using the PVWatts Solar API.
